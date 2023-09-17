@@ -1,0 +1,307 @@
+[
+    {
+        "name": "تهران",
+        "name_en": "تهران",
+        "code": "THR"
+    },
+    {
+        "name": "اهواز",
+        "name_en": "اهواز",
+        "code": "AWZ"
+    },
+    {
+        "name": "شیراز",
+        "name_en": "شیراز",
+        "code": "SYZ"
+    },
+    {
+        "name": "مشهد",
+        "name_en": "مشهد",
+        "code": "MHD"
+    },
+    {
+        "name": "بندر عباس",
+        "name_en": "بندر عباس",
+        "code": "BND"
+    },
+    {
+        "name": "اصفهان",
+        "name_en": "اصفهان",
+        "code": "IFN"
+    },
+    {
+        "name": "تبریز",
+        "name_en": "تبریز",
+        "code": "TBZ"
+    },
+    {
+        "name": "کیش",
+        "name_en": "کیش",
+        "code": "KIH"
+    },
+    {
+        "name": "آبادان",
+        "name_en": "آبادان",
+        "code": "ABD"
+    },
+    {
+        "name": "اراک",
+        "name_en": "Arak",
+        "code": "AJK"
+    },
+    {
+        "name": "اردبیل",
+        "name_en": "اردبیل",
+        "code": "ADU"
+    },
+    {
+        "name": "ارومیه",
+        "name_en": "ارومیه",
+        "code": "OMH"
+    },
+    {
+        "name": "امیدیه",
+        "name_en": "امیدیه",
+        "code": "AKW"
+    },
+    {
+        "name": "ایرانشهر",
+        "name_en": "ایرانشهر",
+        "code": "IHR"
+    },
+    {
+        "name": "ایلام",
+        "name_en": "ایلام",
+        "code": "IIL"
+    },
+    {
+        "name": "بجنورد",
+        "name_en": "بجنورد",
+        "code": "BJB"
+    },
+    {
+        "name": "بم",
+        "name_en": "بم",
+        "code": "BXR"
+    },
+    {
+        "name": "بندر لنگه",
+        "name_en": "بندر لنگه",
+        "code": "BDH"
+    },
+    {
+        "name": "بوشهر",
+        "name_en": "Bushehr",
+        "code": "BUZ"
+    },
+    {
+        "name": "بیرجند",
+        "name_en": "Birjand",
+        "code": "XBJ"
+    },
+    {
+        "name": "پارس آباد",
+        "name_en": "Pars abad",
+        "code": "PFQ"
+    },
+    {
+        "name": "جاسک",
+        "name_en": "Jask",
+        "code": "JSK"
+    },
+    {
+        "name": "جهرم",
+        "name_en": "Jahrom",
+        "code": "JAR"
+    },
+    {
+        "name": "جیرفت",
+        "name_en": "جیرفت",
+        "code": "JYR"
+    },
+    {
+        "name": "چابهار",
+        "name_en": "چابهار",
+        "code": "ZBR"
+    },
+    {
+        "name": "خارک",
+        "name_en": "خارک",
+        "code": "KHK"
+    },
+    {
+        "name": "خرم آباد",
+        "name_en": "Khorramabad",
+        "code": "KHD"
+    },
+    {
+        "name": "خوی",
+        "name_en": "خوی",
+        "code": "KHY"
+    },
+    {
+        "name": "دزفول",
+        "name_en": "دزفول",
+        "code": "DEF"
+    },
+    {
+        "name": "رامسر",
+        "name_en": "رامسر",
+        "code": "RZR"
+    },
+    {
+        "name": "رشت",
+        "name_en": "رشت",
+        "code": "RAS"
+    },
+    {
+        "name": "رفسنجان",
+        "name_en": "رفسنجان",
+        "code": "RJN"
+    },
+    {
+        "name": "زابل",
+        "name_en": "زابل",
+        "code": "ACZ"
+    },
+    {
+        "name": "زاهدان",
+        "name_en": "زاهدان",
+        "code": "ZAH"
+    },
+    {
+        "name": "زنجان",
+        "name_en": "زنجان",
+        "code": "JWN"
+    },
+    {
+        "name": "ساری",
+        "name_en": "ساری",
+        "code": "SRY"
+    },
+    {
+        "name": "سبزوار",
+        "name_en": "سبزوار",
+        "code": "AFZ"
+    },
+    {
+        "name": "سمنان",
+        "name_en": "سمنان",
+        "code": "SEMNAN"
+    },
+    {
+        "name": "سنندج",
+        "name_en": "سنندج",
+        "code": "SDG"
+    },
+    {
+        "name": "مراغه",
+        "name_en": "مراغه",
+        "code": "ACP"
+    },
+    {
+        "name": "سیرجان",
+        "name_en": "سیرجان",
+        "code": "SYJ"
+    },
+    {
+        "name": "شاهرود",
+        "name_en": "شاهرود",
+        "code": "RUD"
+    },
+    {
+        "name": "شهرکرد",
+        "name_en": "شهرکرد",
+        "code": "CQD"
+    },
+    {
+        "name": "طبس",
+        "name_en": "طبس",
+        "code": "TCX"
+    },
+    {
+        "name": "عسلویه",
+        "name_en": "عسلویه",
+        "code": "PGU"
+    },
+    {
+        "name": "قشم",
+        "name_en": "قشم",
+        "code": "GSM"
+    },
+    {
+        "name": "کاشان",
+        "name_en": "Kashan",
+        "code": "KKS"
+    },
+    {
+        "name": "کرج",
+        "name_en": "Karaj",
+        "code": "PYK"
+    },
+    {
+        "name": "کرمان",
+        "name_en": "Kerman",
+        "code": "KER"
+    },
+    {
+        "name": "کرمانشاه",
+        "name_en": "Kermanshah",
+        "code": "KSH"
+    },
+    {
+        "name": "کلاله",
+        "name_en": "Kolaleh",
+        "code": "KLM"
+    },
+    {
+        "name": "گچساران",
+        "name_en": "گچساران",
+        "code": "GCH"
+    },
+    {
+        "name": "گرگان",
+        "name_en": "گرگان",
+        "code": "GBT"
+    },
+    {
+        "name": "لار",
+        "name_en": "لار",
+        "code": "LRR"
+    },
+    {
+        "name": "لامرد",
+        "name_en": "لامرد",
+        "code": "LFM"
+    },
+    {
+        "name": "ماکو",
+        "name_en": "ماکو",
+        "code": "MAC"
+    },
+    {
+        "name": "ماهشهر",
+        "name_en": "ماهشهر",
+        "code": "MRX"
+    },
+    {
+        "name": "نوشهر",
+        "name_en": "نوشهر",
+        "code": "NSH"
+    },
+    {
+        "name": "همدان",
+        "name_en": "همدان",
+        "code": "HDM"
+    },
+    {
+        "name": "یاسوج",
+        "name_en": "یاسوج",
+        "code": "YES"
+    },
+    {
+        "name": "یزد",
+        "name_en": "Yazd",
+        "code": "AZD"
+    }
+]
